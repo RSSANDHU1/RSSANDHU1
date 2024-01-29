@@ -6,6 +6,6 @@
         <tittle>First Project</tittle>
     </head>
   <body>
-    <h1> FIRST PROJRCT OF FRONT-END DEVELOPER </h1>
+    <h1> FIRST PROJRCT OF <b>FRONT-END DEVELOPER</b> </h1>
   </body> 
 </html> 
